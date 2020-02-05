@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 8080;
 
 app.set("port", PORT);
 
-app.use(express.static(__dirname + "/build"));
+app.get("/", (req, res) => res.send("ok"));
 
 app.listen(app.get("port"), err => {
   if(err) {
