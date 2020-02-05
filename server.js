@@ -6,6 +6,8 @@ app.set("port", PORT);
 
 app.get("/", (req, res) => res.send("ok"));
 
+app.use(express.static(__dirname + "build"));
+
 app.listen(app.get("port"), err => {
   if(err) {
     console.log("error running app", err);
