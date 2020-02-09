@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/webpge/build/static/css/main.44cc0310.chunk.css",
-    "main.js": "/webpge/build/static/js/main.6ba0dc1e.chunk.js",
-    "main.js.map": "/webpge/build/static/js/main.6ba0dc1e.chunk.js.map",
+    "main.css": "/webpge/build/static/css/main.ea96c5ab.chunk.css",
+    "main.js": "/webpge/build/static/js/main.c31920c8.chunk.js",
+    "main.js.map": "/webpge/build/static/js/main.c31920c8.chunk.js.map",
     "runtime-main.js": "/webpge/build/static/js/runtime-main.fa987ef7.js",
     "runtime-main.js.map": "/webpge/build/static/js/runtime-main.fa987ef7.js.map",
-    "static/js/2.1da8f000.chunk.js": "/webpge/build/static/js/2.1da8f000.chunk.js",
-    "static/js/2.1da8f000.chunk.js.map": "/webpge/build/static/js/2.1da8f000.chunk.js.map",
+    "static/js/2.dcd43eb7.chunk.js": "/webpge/build/static/js/2.dcd43eb7.chunk.js",
+    "static/js/2.dcd43eb7.chunk.js.map": "/webpge/build/static/js/2.dcd43eb7.chunk.js.map",
     "index.html": "/webpge/build/index.html",
-    "precache-manifest.b5e331028a26fe7f5cff2c4e2247c1a7.js": "/webpge/build/precache-manifest.b5e331028a26fe7f5cff2c4e2247c1a7.js",
+    "precache-manifest.bb758823630df3b8d81b68b579861f50.js": "/webpge/build/precache-manifest.bb758823630df3b8d81b68b579861f50.js",
     "service-worker.js": "/webpge/build/service-worker.js",
-    "static/css/main.44cc0310.chunk.css.map": "/webpge/build/static/css/main.44cc0310.chunk.css.map",
-    "static/js/2.1da8f000.chunk.js.LICENSE.txt": "/webpge/build/static/js/2.1da8f000.chunk.js.LICENSE.txt",
+    "static/css/main.ea96c5ab.chunk.css.map": "/webpge/build/static/css/main.ea96c5ab.chunk.css.map",
+    "static/js/2.dcd43eb7.chunk.js.LICENSE.txt": "/webpge/build/static/js/2.dcd43eb7.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/webpge/build/static/media/avatar.f1d71f77.jpg",
     "static/media/bg.jpg": "/webpge/build/static/media/bg.e5241971.jpg",
     "static/media/bg2.jpg": "/webpge/build/static/media/bg2.84378183.jpg",
@@ -23,7 +23,7 @@
     "static/media/clem-onojeghuo.jpg": "/webpge/build/static/media/clem-onojeghuo.216ef03c.jpg",
     "static/media/cynthia-del-rio.jpg": "/webpge/build/static/media/cynthia-del-rio.9813593c.jpg",
     "static/media/kendall.jpg": "/webpge/build/static/media/kendall.e0508cc9.jpg",
-    "static/media/landing-bg.jpg": "/webpge/build/static/media/landing-bg.df8fd3ef.jpg",
+    "static/media/landing-background.png": "/webpge/build/static/media/landing-background.365c7520.png",
     "static/media/landing.jpg": "/webpge/build/static/media/landing.08e18cb9.jpg",
     "static/media/mariya-georgieva.jpg": "/webpge/build/static/media/mariya-georgieva.4575c40b.jpg",
     "static/media/olu-eletu.jpg": "/webpge/build/static/media/olu-eletu.4112cbc1.jpg",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fa987ef7.js",
-    "static/js/2.1da8f000.chunk.js",
-    "static/css/main.44cc0310.chunk.css",
-    "static/js/main.6ba0dc1e.chunk.js"
+    "static/js/2.dcd43eb7.chunk.js",
+    "static/css/main.ea96c5ab.chunk.css",
+    "static/js/main.c31920c8.chunk.js"
   ]
 }
