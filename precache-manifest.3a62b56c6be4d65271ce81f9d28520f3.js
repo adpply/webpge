@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22d838566777cbc44e11ed0b6c2bdda9",
+    "revision": "1656a81a4cedc94d77b524be0dffad0b",
     "url": "/webpge/index.html"
   },
   {
-    "revision": "c7c4c4a6cd4a4633c90f",
+    "revision": "0b2d8c204b807fd727d3",
     "url": "/webpge/static/css/main.ea96c5ab.chunk.css"
   },
   {
-    "revision": "aa1397ce41027190742a",
-    "url": "/webpge/static/js/2.7c197601.chunk.js"
+    "revision": "a0abeefe5e7952ed8967",
+    "url": "/webpge/static/js/2.d23c9618.chunk.js"
   },
   {
     "revision": "208b7298d62584c837d22550cd667be5",
-    "url": "/webpge/static/js/2.7c197601.chunk.js.LICENSE.txt"
+    "url": "/webpge/static/js/2.d23c9618.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7c4c4a6cd4a4633c90f",
-    "url": "/webpge/static/js/main.926d2616.chunk.js"
+    "revision": "0b2d8c204b807fd727d3",
+    "url": "/webpge/static/js/main.18d73b3c.chunk.js"
   },
   {
     "revision": "40e0f6856bfaae48967c",
