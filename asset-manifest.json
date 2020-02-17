@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webpge/static/css/main.ea96c5ab.chunk.css",
-    "main.js": "/webpge/static/js/main.18d73b3c.chunk.js",
-    "main.js.map": "/webpge/static/js/main.18d73b3c.chunk.js.map",
+    "main.js": "/webpge/static/js/main.f20e58c1.chunk.js",
+    "main.js.map": "/webpge/static/js/main.f20e58c1.chunk.js.map",
     "runtime-main.js": "/webpge/static/js/runtime-main.9dacae56.js",
     "runtime-main.js.map": "/webpge/static/js/runtime-main.9dacae56.js.map",
     "static/js/2.d23c9618.chunk.js": "/webpge/static/js/2.d23c9618.chunk.js",
     "static/js/2.d23c9618.chunk.js.map": "/webpge/static/js/2.d23c9618.chunk.js.map",
     "index.html": "/webpge/index.html",
-    "precache-manifest.3a62b56c6be4d65271ce81f9d28520f3.js": "/webpge/precache-manifest.3a62b56c6be4d65271ce81f9d28520f3.js",
+    "precache-manifest.a7d5d4157ce4181fa9a2516993fd6e06.js": "/webpge/precache-manifest.a7d5d4157ce4181fa9a2516993fd6e06.js",
     "service-worker.js": "/webpge/service-worker.js",
     "static/css/main.ea96c5ab.chunk.css.map": "/webpge/static/css/main.ea96c5ab.chunk.css.map",
     "static/js/2.d23c9618.chunk.js.LICENSE.txt": "/webpge/static/js/2.d23c9618.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.9dacae56.js",
     "static/js/2.d23c9618.chunk.js",
     "static/css/main.ea96c5ab.chunk.css",
-    "static/js/main.18d73b3c.chunk.js"
+    "static/js/main.f20e58c1.chunk.js"
   ]
 }
