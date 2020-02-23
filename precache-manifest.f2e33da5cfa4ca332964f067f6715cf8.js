@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6588e0e7023ee5963175a7770dc6e4d9",
+    "revision": "837600806434c112e8e9755e5463d173",
     "url": "/webpge/index.html"
   },
   {
-    "revision": "18f1bba7b33ff71c7c56",
+    "revision": "f26a4f11444c8dc54d3b",
     "url": "/webpge/static/css/main.ea96c5ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webpge/static/js/2.b8bbf464.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18f1bba7b33ff71c7c56",
-    "url": "/webpge/static/js/main.d6283351.chunk.js"
+    "revision": "f26a4f11444c8dc54d3b",
+    "url": "/webpge/static/js/main.4401094e.chunk.js"
   },
   {
     "revision": "40e0f6856bfaae48967c",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webpge/static/media/kendall.e0508cc9.jpg"
   },
   {
-    "revision": "365c7520b1054fddf494a9ec0b9cfdf4",
-    "url": "/webpge/static/media/landing-background.365c7520.png"
+    "revision": "167a47a23c63c22bb0e415bbf9a3277a",
+    "url": "/webpge/static/media/landing-background.167a47a2.webp"
   },
   {
     "revision": "08e18cb904f0f3c6dd9e3d4ed72e0eca",
