@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e1b465e52a0108f1d6e130c889b9050",
+    "revision": "b1175dbdd6c8feb197d930497dda6ae3",
     "url": "/webpge/index.html"
   },
   {
-    "revision": "1e0a49477b2bfa54139a",
+    "revision": "7a54f7554249124dda6d",
     "url": "/webpge/static/css/main.ea96c5ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webpge/static/js/2.9a9cce9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e0a49477b2bfa54139a",
-    "url": "/webpge/static/js/main.fdd80b79.chunk.js"
+    "revision": "7a54f7554249124dda6d",
+    "url": "/webpge/static/js/main.d354333d.chunk.js"
   },
   {
     "revision": "40e0f6856bfaae48967c",
